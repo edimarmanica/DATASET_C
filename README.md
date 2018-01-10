@@ -35,7 +35,7 @@ You can access the latest version of this dataset from HERE.
 
 We would appreciate it if you cite the following paper when using the dataset:
 
-Edimar Manica, Renata Galante, Carina F. Dorneles: SSUP - A URL-Based Method to Entity-Page Discovery. ICWE 2014: 254-271
+MANICA, E; GALANTE, R.; DORNELES, C.F.: SSUP - A URL-Based Method to Entity-Page Discovery. ICWE 2014: 254-271
 
 # 10. Contact
 
